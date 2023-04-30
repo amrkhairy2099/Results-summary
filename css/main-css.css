@@ -11,8 +11,8 @@ body {
 	width: 700px;
 	height: 500px;
 	display: flex;
-	margin: 4% auto;
-	border-radius: 15px;
+	margin: 20% auto;
+	border-radius: 30px;
 	overflow: hidden;
 	box-shadow: 0 0 6px #0000004d;
 }
@@ -27,7 +27,7 @@ body {
 	position: relative; 
     width: 350px;
     background: linear-gradient(180deg, #6743ff, #312ceb);
-    border-radius: 15px;
+    border-radius: 30px;
     text-align: center;
 	padding: 30px 0;
 }
