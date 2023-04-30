@@ -1,2 +1,2 @@
 # Results-summary
-Fiest challenge in Frontend Mentor
+First challenge in Frontend Mentor
